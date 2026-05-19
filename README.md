@@ -1,4 +1,4 @@
-#  Cryptracker – Bitcoin Transaction Forensics & Money Flow Analysis
+#  Cryptracer – Bitcoin Transaction Forensics & Money Flow Analysis
 
 > **Advanced on-chain intelligence platform for Bitcoin transaction tracing, mixer detection, and money flow visualization.**
 
